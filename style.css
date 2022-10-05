@@ -1,0 +1,54 @@
+:root{
+    --primary-color:#facc15
+}
+.header{
+    font-family: Georgia;
+    text-align: center;
+    background-color: var(--primary-color);
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 0;
+    padding-left:1rem;
+    
+}
+.button{
+    text-align:center;
+    margin: auto;
+    color: #facc15;
+    
+}
+#btn-translate{
+    
+    background-color:#facc15;
+    border: none;
+    width: 13rem;
+    height: 3rem;
+    font-size: 1.2rem;
+}
+
+.output{
+    font-size: larger;
+    text-align: center;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.footer-header{
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 2rem;
+    
+}
+.footer{
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    text-indent: 15rem;
+    margin-right: 15rem;
+    
+
+}
+.foot-footer{
+    background-color: #facc15;
+    margin-top:12.5rem;
+}
