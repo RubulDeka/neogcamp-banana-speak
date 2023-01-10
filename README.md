@@ -1,2 +1,2 @@
-# neogcamp-banana-speak-mark06-
- This website was designed for minions fan.This website translates any language to minionese or banana language.
+This is a API based VanillaJS app.Use this translator to convert your text from English to Minion language.
+Link :-https://legendary-cuchufli-5f4660.netlify.app
